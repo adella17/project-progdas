@@ -1,0 +1,13 @@
+#PATIENTS
+P101,Mary Jane,21,Willow St.
+P102,Meg Sherwood,23,Gleeman Rd.
+#DOCTORS
+D101,Dr. Martens,Neurology
+D102,Dr. Pepper,Psychiatry
+D103, Dr. Dre, General
+#SCHEDULES
+S101,D102,Tuesday,15:00
+S102,D101,Friday,10:00
+#TRANSACTIONS
+T101,P101,D101,150000
+T102,P101,D101,185000
